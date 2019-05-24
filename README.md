@@ -2,15 +2,15 @@
 
 ## 1.申请账号和获取密钥
 
-##### 账号：百度账号
+**账号：百度账号**
 
-##### 密钥：申请网址：<http://lbsyun.baidu.com/apiconsole/key?application=key>
+**密钥：申请网址：<http://lbsyun.baidu.com/apiconsole/key?application=key>**
 
-##### 申请完后会得到密钥，如下如中的AK值
+**申请完后会得到密钥，如下如中的AK值**
 
 ![申请完密钥界面](/img/2.png)
 
-##### 创建应用--本文只讲解浏览器端的使用
+**创建应用--本文只讲解浏览器端的使用**
 
 ![选择适用项目](/img/1.png)
 
